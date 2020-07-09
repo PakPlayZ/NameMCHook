@@ -1,4 +1,4 @@
-ip: your.server
+ip: PakPlayZ
 perform-commands:
  - 'say Change the commands executed in the NameMCHook Config!'
 messages:
@@ -6,5 +6,5 @@ messages:
   player-voted: '&a%player% &ehas voted.'
   player-didnt-vote: '&c%player% has not voted.'
   you-voted: '&aThank you for voting for us on NameMC!'
-  vote-message: '&eYou can vote for us at https://namemc.com/server/<your server ip>'
+  vote-message: '&eYou can vote for us at https://namemc.com/server/<PakPlayZ>'
   player-voted-broadcast: '&6%player% &ehas voted for the server on NameMC!'
